@@ -1,5 +1,4 @@
-@extends('layouts.app') {{-- Certifique-se de ter um layout chamado app --}}
-
+@extends('layouts.app')
 @section('content')
 <div class="container">
     <h2>Produtos</h2>
